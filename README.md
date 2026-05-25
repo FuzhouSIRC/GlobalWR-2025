@@ -21,17 +21,17 @@ The dataset is hosted on the Google Earth Engine platform:
 
 👉 https://code.earthengine.google.com/?asset=projects/ee-feifeicheng20/assets/GlobalWR-2025
 
-Earth Engine Asset ID:
-
-
 var dataset = ee.Image("projects/ee-feifeicheng20/assets/GlobalWR-2025");
+
 Map.addLayer(dataset, {}, "Global Winter Rapeseed");
 
 中文：
 数据集已部署在 Google Earth Engine 平台，可通过以下链接访问：
 
 👉 https://code.earthengine.google.com/?asset=projects/ee-feifeicheng20/assets/GlobalWR-2025
+
 var dataset = ee.Image("projects/ee-feifeicheng20/assets/GlobalWR-2025");
+
 Map.addLayer(dataset, {}, "全球冬油菜");
 
 
