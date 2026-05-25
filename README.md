@@ -47,11 +47,15 @@ GlobalWR-2025: The first global 10-meter winter rapeseed dataset developed by kn
 EN:
 
 Release full Global Spring–Winter Rapeseed Dataset
+
 Open-source processing and modeling code
+
 Improve spatial coverage and labeling quality
 
 中文：
 
 发布完整全球春冬油菜数据集
+
 开源数据处理与模型代码
+
 提升空间覆盖范围与标注质量
