@@ -23,9 +23,6 @@ The dataset is hosted on the Google Earth Engine platform:
 
 Earth Engine Asset ID:
 
-projects/ee-feifeicheng20/assets/GlobalWR-2025冬油菜访问链接
-
-Example (JavaScript in GEE):
 
 var dataset = ee.Image("projects/ee-feifeicheng20/assets/GlobalWR-2025");
 Map.addLayer(dataset, {}, "Global Winter Rapeseed");
