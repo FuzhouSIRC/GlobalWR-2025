@@ -39,6 +39,8 @@ Map.addLayer(dataset, {}, "全球冬油菜");
 
 📖 Citation | 引用方式
 
+GlobalWR-2025: The first global 10-meter winter rapeseed dataset developed by knowledge-guided temporal features [J].International Journal of Applied Earth Observation and Geoinformation, 2026.（SCI一区Top，影响因子8.6）
+
 
 🔮 Future Work | 未来工作
 
