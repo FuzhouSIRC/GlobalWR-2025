@@ -1,17 +1,11 @@
 # GlobalWR-2025
 🌍 Global Winter Rapeseed Dataset (GlobalWR-2025-V1)
-🌍 全球冬油菜数据集 (GlobalWR-2025-V1)
-
-📖 Overview | 数据集简介
-
 EN:
 This repository provides access to the Global Winter Rapeseed Dataset (GlobalWR-2025), a large-scale geospatial dataset designed for crop mapping, agricultural monitoring, and Earth observation research.
 
 This dataset is part of our ongoing Global Spring–Winter Rapeseed Dataset project. Currently, only the winter rapeseed component is publicly available. The full dataset and associated code will be released in future updates.
-
-中文：
+中文(In Chinese)：
 全球冬油菜数据集（GlobalWR-2025），该数据集面向作物制图、农业监测及地球观测研究。
-
 该数据集属于我们正在构建的全球春冬油菜数据集的一部分。目前仅开放冬油菜数据，完整数据集及相关代码将在后续发布。
 
 📦 Dataset Access | 数据访问
