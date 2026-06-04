@@ -2,6 +2,7 @@
 🌍 Global Winter Rapeseed Dataset (GlobalWR-2025-V1)
 
 This repository provides access to the Global Winter Rapeseed Dataset (GlobalWR-2025), a large-scale geospatial dataset designed for crop mapping, agricultural monitoring, and Earth observation research. This dataset is part of our ongoing Global Spring–Winter Rapeseed Dataset project. Currently, only the winter rapeseed component is publicly available. The full dataset and associated code will be released in future updates.
+
 📦 Dataset Access | 数据访问
 
 The dataset is hosted on the Google Earth Engine platform:
